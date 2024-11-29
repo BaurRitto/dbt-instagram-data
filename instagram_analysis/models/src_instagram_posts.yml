@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: instagram_data
+    database: INSTAGRAM_DATA
+    schema: RAW
+    tables:
+      - name: instagram_posts
